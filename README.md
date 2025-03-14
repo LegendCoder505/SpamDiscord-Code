@@ -5,7 +5,19 @@ I’ve built a Spam Code (SC) that can flood messages, making even your most ann
 
 ⚠️ Disclaimer: This script is meant for testing and educational purposes. Misusing it may result in account bans. Use with caution and respect others' boundaries.
 
+To install pynput:
+``` 
+sh
+``
+sudo apt install python3-pynput
+``
+``
+pip install pynput
+``
+```
+
 🔗 GitHub: https://github.com/LegendCoder505/SpamCode
+
 🎮 Discord Server (Still in Progress): https://discord.gg/rDv3WQaAg9
 
 to stop the spam use "esc" key
